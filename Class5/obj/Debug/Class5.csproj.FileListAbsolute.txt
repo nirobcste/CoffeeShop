@@ -1,0 +1,21 @@
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\bin\Debug\Class5.exe.config
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.CustomerInformationUi.resources
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\bin\Debug\Class5.exe
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\bin\Debug\Class5.pdb
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.exe
+C:\Users\Web App Develop .Net\Desktop\Class5\Class5\obj\Debug\Class5.pdb
+C:\Users\Web App Develop .Net\Desktop\New folder\Class5\Class5\bin\Debug\Class5.exe.config
+C:\Users\Web App Develop .Net\Desktop\New folder\Class5\Class5\obj\Debug\Class5.exe
+C:\Users\Web App Develop .Net\Desktop\New folder\Class5\Class5\obj\Debug\Class5.pdb
+F:\Dot Net Class Document\My Practice\Class5\Class5\bin\Debug\Class5.exe.config
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.exe
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.pdb
+F:\Dot Net Class Document\My Practice\Class5\Class5\bin\Debug\Class5.exe
+F:\Dot Net Class Document\My Practice\Class5\Class5\bin\Debug\Class5.pdb
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.csprojResolveAssemblyReference.cache
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.CustomerInformationUi.resources
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.Properties.Resources.resources
+F:\Dot Net Class Document\My Practice\Class5\Class5\obj\Debug\Class5.csproj.GenerateResource.Cache
